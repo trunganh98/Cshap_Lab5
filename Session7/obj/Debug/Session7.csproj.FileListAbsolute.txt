@@ -1,0 +1,7 @@
+D:\C#\Session7\Session7\bin\Debug\Session7.exe.config
+D:\C#\Session7\Session7\bin\Debug\Session7.exe
+D:\C#\Session7\Session7\bin\Debug\Session7.pdb
+D:\C#\Session7\Session7\obj\Debug\Session7.csprojAssemblyReference.cache
+D:\C#\Session7\Session7\obj\Debug\Session7.csproj.CoreCompileInputs.cache
+D:\C#\Session7\Session7\obj\Debug\Session7.exe
+D:\C#\Session7\Session7\obj\Debug\Session7.pdb
